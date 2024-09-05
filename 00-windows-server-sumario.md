@@ -38,7 +38,7 @@
    - Resolução de problemas comuns
 
 Recursos recomendados:
+
 - Documentação oficial da Microsoft
 - Cursos online (Microsoft Learn, Pluralsight, Udemy)
 - Livros: "Windows Server 2019 Inside Out" e "Mastering Windows Server 2019"
-
